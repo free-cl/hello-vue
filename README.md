@@ -23,6 +23,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/colorful-cl/goldbean.git
+git remote add origin https://github.com/free-cl/hello-vue.git
 git push -u origin master
 ```
