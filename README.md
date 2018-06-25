@@ -27,4 +27,5 @@ git remote add origin https://github.com/free-cl/hello-vue.git
 git push -u origin master
 
 ## git ssh配置
+id_rsa
 ```
