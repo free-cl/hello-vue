@@ -28,4 +28,5 @@ git push -u origin master
 
 ## git ssh配置
 id_rsa  known_hosts
+user
 ```
